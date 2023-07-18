@@ -1,2 +1,2 @@
-# Sanger-in-Methyland
+# MetHunter
 The following script summarizes the total number of CpG islands and alternative methylation sites from a given fasta files (reference genome). Following this survey, an additional fasta file must be provided, where the methylated cytosines of the reference genome have been substituted with 'M' (methylated genome). By providing this second input, the program produces the total number of genome methylations, the percentage of methylation and the distribution of methylation across different methylaiton sites. This could be implemented by providing genomic features as CDS or gene regions with a third input, in order to analyze any differences between genomic regions or genes in methyation patterns.
